@@ -27,3 +27,4 @@ Y alguna más...
 
 [![Twitter](https://img.shields.io/badge/Twitter-@eacunam-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/eacunam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar_Acuna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edgar-acuña-melo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar_Acuna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edgar-acuña-melo)
