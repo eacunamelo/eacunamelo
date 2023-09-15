@@ -16,10 +16,15 @@ He trabajado en una variedad de proyectos de software, colaborando en el desarro
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/postgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 </br>
-</br>
-[![Angular](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=Angular&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/react-232F3E?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
+
+## Encuéntrame en:
+
+[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/eacunam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/edgar-acuña-melo)
+
