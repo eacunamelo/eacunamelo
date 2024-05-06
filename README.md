@@ -1,9 +1,13 @@
-### Hola, mi nombre es Edgar Acuña 👋
+### Hola, soy Edgar Acuña 👋
 ### Freelance back-end .net, node js & php engineer
 
-Soy ingeniero de software profesional.
+Soy un ingeniero de software freelance especializado en back-end con experiencia en .NET, Node.js y PHP.
 
-He trabajado en una variedad de proyectos de software, colaborando en el desarrollo de soluciones tanto para empresas privadas como públicas. Además, he tenido la oportunidad de emprender un proyecto personal enfocado en el monitoreo continuo y el procesamiento de datos en los sectores de agricultura, pesca e industria.
+Como profesional en el desarrollo de software, he participado en una variedad de proyectos, colaborando en soluciones tanto para empresas privadas como públicas. He tenido la oportunidad de trabajar en el diseño e implementación de sistemas robustos y escalables que cumplen con los requisitos específicos de mis clientes.
+
+Además de mi trabajo profesional, he emprendido un proyecto personal centrado en el monitoreo continuo y el procesamiento de datos en los sectores de agricultura, pesca e industria. Esta experiencia me ha permitido desarrollar habilidades sólidas en análisis de datos y diseño de sistemas de información eficientes.
+
+Estoy comprometido con la excelencia técnica y siempre estoy buscando nuevas oportunidades para aplicar mis habilidades y conocimientos en proyectos desafiantes y gratificantes.
 
 ## Tecnologías:
 [![Net](https://img.shields.io/badge/.Net-4285F4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
@@ -26,4 +30,4 @@ Y alguna más...
 ## Encuéntrame en:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@eacunam-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/eacunam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar_Acuna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edgar-acuña-melo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar_Acuna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/eacunam)
